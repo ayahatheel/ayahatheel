@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![HitCount](https://hits.dwyl.com/ayahatheel/ayahatheel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ayahatheel/ayahatheel)
+
 <!--
 **ayahatheel/ayahatheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
