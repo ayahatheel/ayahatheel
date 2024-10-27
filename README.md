@@ -1,4 +1,11 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&duration=3000&pause=1500&color=00FF00&background=282C34&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ayah+Atheel!;I'm+a+Passionate+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Next.js-00FF00?style=for-the-badge&logo=next.js)
+![Building](https://img.shields.io/badge/Entrepreneur%20Mode-On-00FF00?style=for-the-badge)
+
+
+
 
 [![HitCount](https://hits.dwyl.com/ayahatheel/ayahatheel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ayahatheel/ayahatheel)
 
