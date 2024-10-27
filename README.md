@@ -1,3 +1,6 @@
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&duration=3000&pause=1500&color=00FF00&background=282C34&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ayah+Atheel!;I'm+a+Passionate+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 
@@ -6,10 +9,12 @@
 
 
 
-
+<!--
 [![HitCount](https://hits.dwyl.com/ayahatheel/ayahatheel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ayahatheel/ayahatheel)
 
-<!--
+
+
+
 **ayahatheel/ayahatheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,3 +31,6 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayahatheel&theme=hacker&border_radius=12.5)](https://git.io/streak-stats)
+
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayahatheel&theme=github_dark)
