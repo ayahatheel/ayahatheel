@@ -1,5 +1,5 @@
 
-
+  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&duration=3000&pause=1500&color=00FF00&background=282C34&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ayah+Atheel!;I'm+a+Passionate+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
